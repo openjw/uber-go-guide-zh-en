@@ -388,7 +388,7 @@ Effective Go has a good write up on [Pointers vs. Values].
 
   [Pointers vs. Values]: https://golang.org/doc/effective_go.html#pointers_vs_values
 
-### 接收器 (receiver) 与接口
+### 接收器与接口
 
 使用值接收器的方法既可以通过值调用，也可以通过指针调用。
 
